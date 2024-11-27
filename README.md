@@ -1,7 +1,7 @@
 # Тесты API
 
-Тестирование API сайта https://stellarburgers.nomoreparties.site.
-Документация к API https://code.s3.yandex.net/qa-automation-engineer/java/cheatsheets/paid-track/diplom/api-documentation.pdf
+*   Тестирование API сайта https://stellarburgers.nomoreparties.site.
+*   Документация к API https://code.s3.yandex.net/qa-automation-engineer/java/cheatsheets/paid-track/diplom/api-documentation.pdf
 
 ## Задание
 
@@ -39,9 +39,9 @@
 
 ## Используемые библиотеки
 
-* **JUnit**: для написания и запуска тестов
-* **Allure**: для генерации отчетов о тестировании
-* **Rest-Assured**: для тестирования RESTful API
-* **Gson**: для работы с JSON-данными
-* **Project Lombok**: для автоматической генерации кода (геттеров, сеттеров, конструкторов)
-* **JavaFaker**: для генерации фейковых данных для тестирования
+*   **JUnit**: для написания и запуска тестов
+*   **Allure**: для генерации отчетов о тестировании
+*   **Rest-Assured**: для тестирования RESTful API
+*   **Gson**: для работы с JSON-данными
+*   **Project Lombok**: для автоматической генерации кода (геттеров, сеттеров, конструкторов)
+*   **JavaFaker**: для генерации фейковых данных для тестирования
